@@ -1,0 +1,36 @@
+{
+  "name": "folder-blueprint",
+  "displayName": "Folder Blueprint",
+  "version": "1.0.0",
+  "publisher": "MoveRoad",
+  "license": "SEE LICENSE IN 'LICENSE'",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "author": {
+    "name": "MoveRoad",
+    "email": "oio31250@gmail.com"
+  },
+  "description": "It provides the ability to easily create folder the desired structure.",
+  "keywords": [
+    "folder",
+    "blueprint",
+    "structure",
+    "create",
+    "folder structure"
+  ],
+  "categories": [
+    "Other"
+  ],
+  "homepage": "https://github.com/MoveRoad/folder-blueprint",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MoveRoad/folder-blueprint"
+  },
+  "activationEvents": [
+    "*"
+  ],
+  "main": "./out/extension.js",
+  "scripts": {},
+  "devDependencies": {}
+}
